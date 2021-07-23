@@ -1,5 +1,5 @@
 # dcm2nii
-DICOMからNIfTIへの変換
+dcm2niixを用いた、DICOMからNIfTIへの変換を自動化
 
 # 内容
 dcm2nii.shの実行でディレクトリ内のzip形式で保存されたDICOMをNIfTIに変換したものが保存される
