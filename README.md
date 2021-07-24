@@ -1,4 +1,5 @@
-# dcm2nii
+# 概要
+
 dcm2niixを用いた、DICOMからNIfTIへの変換を自動化
 
 # 内容
