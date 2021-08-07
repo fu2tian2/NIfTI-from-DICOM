@@ -26,4 +26,4 @@ for dcm_path in files:
 
 print("-----以下check-----")
 for dcm_path in files:
-    delete_personal_info(dcm_path)
+    delete_personal_info(dcm_path, save_new=False)
